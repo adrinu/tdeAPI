@@ -21,5 +21,5 @@ def hello():
     return element_text
 
 if __name__ == '__main__':
-    serve(app,host = '3.138.100.222',port = 5000)
+    serve(app,host = '0.0.0.0',port = 80)
     
