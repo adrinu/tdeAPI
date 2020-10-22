@@ -6,7 +6,7 @@ Get a user's calories needed to achieve their goal for fitME application: https:
 
 
 ## Get Started
-* Import Selenium
+* Import Flask & Selenium
 * Download Chromedriver and place it either in System32 or include the PATH in Environmental Variables
 
 
