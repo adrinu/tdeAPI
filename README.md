@@ -11,7 +11,7 @@ Get a user's calories needed to achieve their goal for fitME application: https:
 
 
 ## Using the API
-* Run the tdeAPI.py file
+* Run the application.py file
 * In your perferable browser, type in http://127.0.0.1:5000 in the URL
 * Add /api?findCalories= at then end of the URl
 
