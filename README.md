@@ -29,7 +29,7 @@ Get a user's calories needed to achieve their goal for fitME application: https:
 
 ## Example
 http://127.0.0.1:5000/api?findCalories=TRUE male 19 160 70 1.55
-RETURN: 3208
+<br />RETURN: 3208
 
 
 ## Upcoming Features 
